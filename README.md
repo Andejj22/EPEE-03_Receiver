@@ -4,7 +4,7 @@ Repo for project work KiCad files
 ## How to start working on this repo
 First make sure you have git installed on your computer. For Windows OS it's probably easies to download "Git for Windows" and configure it according to the instructions. Linux shouls have git preinstalled and ready to work. After you have git ready and working, go to the directory you want to have your copy of the project in, and type
 ```
-git clone [project_url]
+git clone https://github.com/Andejj22/EPEE-03_Receiver.git
 ```
 When actually typing these leave out the brackets. Now you should have a local copy of this project. To start working, create a new branch and switch to it with
 ```
