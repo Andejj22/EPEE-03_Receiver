@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "capacitor_bank")(type "KiCad")(uri "${KIPRJMOD}/capacitor_bank.pretty")(options "")(descr ""))
+  (lib (name "P7815-500R")(type "KiCad")(uri "C:/Users/antti/OneDrive/Asiakirjat/KiCad/7.0/footprints/P7815-500R.pretty")(options "")(descr ""))
+)
