@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\antti\OneDrive\Asiakirjat\KiCad\WTP_receiver\WTP_receiver.kicad_sch</source>
+    <date>2/25/2024 10:22:15 PM</date>
+    <tool>Eeschema 7.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>WTP_receiver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39b61d12-25fb-47be-a995-ccbdec9e0323</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a2efcb2-8aa0-4a92-bd3a-deb9f85fb5de</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f2822ce-b02e-4910-a1a8-a39dbec37e76</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a71235ac-ea9a-4bf3-aad0-163e7318c866</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>251360cc-f7ed-4aae-844a-e4ce7615d02f</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b5924ae-550c-493d-896f-80548e7e205f</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b7ff8b1-0241-4daa-8d01-57e6a596f9cf</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8efbe97-81b5-4b81-8ec3-0084b5e440e6</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>963e6795-ab41-4d4e-9278-bbee9eb4828d</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d8e4dcf-4f99-4667-b7f4-bd3080889ecc</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3913ba8-9c60-4900-9a52-719f27d7dec1</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cace8d92-dce7-46a0-9d33-59fd14119199</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc49500f-ddac-4ef6-a693-0d64829d1f14</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2ccec2d-64d9-4fb3-93cc-3fccf991d8ee</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SMAJ85CA-TR</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>https://www.st.com/content/ccc/resource/technical/document/datasheet/ff/c0/80/cc/19/4c/45/af/CD00001333.pdf/files/CD00001333.pdf/_jcr_content/translations/en.CD00001333.pdf</datasheet>
+      <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Bidirectional transient-voltage-suppression diode"/>
+      <property name="ki_keywords" value="diode TVS thyrector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e07cc42e-f100-4403-8934-227ea21182b0</tstamps>
+    </comp>
+    <comp ref="DH1">
+      <value>PMEG050V030EPD</value>
+      <footprint>Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PMEG050V030EPD.pdf</datasheet>
+      <libsource lib="Diode" part="PMEG050V030EPD" description="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
+      <property name="ki_keywords" value="forward voltage diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>765ca19c-3665-4b02-8167-756b81cbd069</tstamps>
+    </comp>
+    <comp ref="DH2">
+      <value>PMEG050V030EPD</value>
+      <footprint>Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PMEG050V030EPD.pdf</datasheet>
+      <libsource lib="Diode" part="PMEG050V030EPD" description="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
+      <property name="ki_keywords" value="forward voltage diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87ed72fc-7295-4e72-b725-51c395094536</tstamps>
+    </comp>
+    <comp ref="DL1">
+      <value>PMEG050V030EPD</value>
+      <footprint>Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PMEG050V030EPD.pdf</datasheet>
+      <libsource lib="Diode" part="PMEG050V030EPD" description="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
+      <property name="ki_keywords" value="forward voltage diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d26def3-ae52-4a55-a930-6068fbf8fbab</tstamps>
+    </comp>
+    <comp ref="DL2">
+      <value>PMEG050V030EPD</value>
+      <footprint>Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PMEG050V030EPD.pdf</datasheet>
+      <libsource lib="Diode" part="PMEG050V030EPD" description="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
+      <property name="ki_keywords" value="forward voltage diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>928f6f88-3635-4e71-bf8a-bcfb910c5661</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6f50947-5086-458b-a6ef-11a97606b324</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c61a66a-016d-4533-bc47-a407651b8bf5</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95b22cdd-e21a-4df8-baca-b454710dafa2</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5e35b1e-d0fd-4431-86c2-1c2371477e52</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>TYPE-C_16PIN_2MD__073_</value>
+      <footprint>components:SHOUHAN_TYPE-C_16PIN_2MD__073_</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/ShouHan-TYPE_C_16P_073/C668624</datasheet>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TYPE-C%2016PIN%202MD%20(073)/Shouhan/view-part/?ref=eda</field>
+        <field name="Description">
+DC-5V 5A Type C USB
+</field>
+        <field name="MANUFACTURER">Shouhan</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.16mm</field>
+        <field name="MF">Shouhan</field>
+        <field name="MP">TYPE-C 16PIN 2MD (073)</field>
+        <field name="PARTREV">A</field>
+        <field name="Package">Package</field>
+        <field name="Price">None</field>
+        <field name="SNAPEDA_PN">TYPE-C 16PIN 2MD (073)</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TYPE-C%2016PIN%202MD%20(073)/Shouhan/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="TYPE-C_16PIN_2MD__073_" part="TYPE-C_16PIN_2MD__073_" description=""/>
+      <property name="MF" value="Shouhan"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.16mm"/>
+      <property name="Package" value="Package"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TYPE-C%2016PIN%202MD%20(073)/Shouhan/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="A"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TYPE-C%2016PIN%202MD%20(073)/Shouhan/view-part/?ref=snap"/>
+      <property name="MP" value="TYPE-C 16PIN 2MD (073)"/>
+      <property name="Description" value="&#xA;DC-5V 5A Type C USB&#xA;"/>
+      <property name="MANUFACTURER" value="Shouhan"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="SNAPEDA_PN" value="TYPE-C 16PIN 2MD (073)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01f40cc0-0401-4ec0-bb8c-e1971683116f</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>P7815-500R</value>
+      <footprint>P7815-500R:CONV_P7815-500R</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="CUI_purchase_URL">https://www.cui.com/product/dc-dc-converters/non-isolated/p78-500r-series?utm_source=snapeda.com&amp;utm_medium=referral&amp;utm_campaign=snapedaBOM</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/P7815-500R/CUI/view-part/?ref=eda</field>
+        <field name="Description">24 V option 0.3 A, all others 0.5 A Output Current, 9 ~ 90 Vdc Input, 3 Pin SIP, Non-Isolated, Dc-Dc Converter</field>
+        <field name="MANUFACTURER">CUI Inc</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9mm</field>
+        <field name="MF">CUI Inc.</field>
+        <field name="MP">P7815-500R</field>
+        <field name="PARTREV">1.0</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=11828196&amp;manufacturer=CUI Inc.&amp;part_name=P7815-500R&amp;search_term=none</field>
+        <field name="SNAPEDA_PN">P7803-500 R</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/P7815-500R/CUI/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="extra_symbols" part="P7815-500R" description=""/>
+      <property name="CUI_purchase_URL" value="https://www.cui.com/product/dc-dc-converters/non-isolated/p78-500r-series?utm_source=snapeda.com&amp;utm_medium=referral&amp;utm_campaign=snapedaBOM"/>
+      <property name="MF" value="CUI Inc."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="9mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/P7815-500R/CUI/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="1.0"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/P7815-500R/CUI/view-part/?ref=snap"/>
+      <property name="MP" value="P7815-500R"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=11828196&amp;manufacturer=CUI Inc.&amp;part_name=P7815-500R&amp;search_term=none"/>
+      <property name="Description" value="24 V option 0.3 A, all others 0.5 A Output Current, 9 ~ 90 Vdc Input, 3 Pin SIP, Non-Isolated, Dc-Dc Converter"/>
+      <property name="MANUFACTURER" value="CUI Inc"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="SNAPEDA_PN" value="P7803-500 R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87a83204-b41b-4b65-92fd-7c08a6b6ba4a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_TVS">
+      <description>Bidirectional transient-voltage-suppression diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_TVS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="PMEG050V030EPD">
+      <description>50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/PMEG050V030EPD.pdf</docs>
+      <footprints>
+        <fp>Nexperia*CFP15*SOT?1289*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PMEG050V030EPD</field>
+        <field name="Footprint">Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/PMEG050V030EPD.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="TYPE-C_16PIN_2MD__073_" part="TYPE-C_16PIN_2MD__073_">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TYPE-C_16PIN_2MD__073_</field>
+        <field name="Footprint">TYPE-C_16PIN_2MD__073_:SHOUHAN_TYPE-C_16PIN_2MD__073_</field>
+        <field name="MF">Shouhan</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.16mm</field>
+        <field name="Package">Package</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TYPE-C%2016PIN%202MD%20(073)/Shouhan/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">A</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TYPE-C%2016PIN%202MD%20(073)/Shouhan/view-part/?ref=snap</field>
+        <field name="MP">TYPE-C 16PIN 2MD (073)</field>
+        <field name="Description">
+DC-5V 5A Type C USB
+</field>
+        <field name="MANUFACTURER">Shouhan</field>
+        <field name="Availability">Not in stock</field>
+        <field name="SNAPEDA_PN">TYPE-C 16PIN 2MD (073)</field>
+      </fields>
+      <pins>
+        <pin num="A1_B12" name="GND" type="power_in"/>
+        <pin num="A4_B9" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="B1_A12" name="GND" type="power_in"/>
+        <pin num="B4_A9" name="VBUS" type="power_in"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="SH1" name="SHIELD" type="passive"/>
+        <pin num="SH2" name="SHIELD" type="passive"/>
+        <pin num="SH3" name="SHIELD" type="passive"/>
+        <pin num="SH4" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="extra_symbols" part="P7815-500R">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">P7815-500R</field>
+        <field name="Footprint">P7815-500R:CONV_P7815-500R</field>
+        <field name="CUI_purchase_URL">https://www.cui.com/product/dc-dc-converters/non-isolated/p78-500r-series?utm_source=snapeda.com&amp;utm_medium=referral&amp;utm_campaign=snapedaBOM</field>
+        <field name="MF">CUI Inc.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/P7815-500R/CUI/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">1.0</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/P7815-500R/CUI/view-part/?ref=snap</field>
+        <field name="MP">P7815-500R</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=11828196&amp;manufacturer=CUI Inc.&amp;part_name=P7815-500R&amp;search_term=none</field>
+        <field name="Description">24 V option 0.3 A, all others 0.5 A Output Current, 9 ~ 90 Vdc Input, 3 Pin SIP, Non-Isolated, Dc-Dc Converter</field>
+        <field name="MANUFACTURER">CUI Inc</field>
+        <field name="Availability">In Stock</field>
+        <field name="SNAPEDA_PN">P7803-500 R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+VIN" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="+VO" type="output"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="TYPE-C_16PIN_2MD__073_">
+      <uri>C:\Users\antti\OneDrive\Asiakirjat\KiCad\WTP_receiver\components\TYPE-C_16PIN_2MD__073_.kicad_sym</uri>
+    </library>
+    <library logical="extra_symbols">
+      <uri>C:\Users\antti\OneDrive\Asiakirjat\KiCad\WTP_receiver/extra_symbols.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J3" pin="A4_B9" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J3" pin="B4_A9" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="+VO" pintype="output"/>
+    </net>
+    <net code="2" name="/AC1">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="DH1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="DH1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="DL1" pin="3" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="3" name="/Coil1">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/Coil2">
+      <node ref="DH2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="DH2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="DL2" pin="3" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="DL1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="DL1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="DL2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="DL2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="A1_B12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J3" pin="B1_A12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J3" pin="SH1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J3" pin="SH2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J3" pin="SH3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J3" pin="SH4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="6" name="VDC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="DH1" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="DH2" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="+VIN" pintype="input"/>
+    </net>
+    <net code="7" name="unconnected-(J3-CC1-PadA5)">
+      <node ref="J3" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="8" name="unconnected-(J3-CC2-PadB5)">
+      <node ref="J3" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,12 @@
+Comment,Designator,Footprint,LCSC Part #
+C Unpolarized capacitor,"C1,C2,C4",C_0805_2012Metric,
+C Unpolarized capacitor,C3,C_1210_3225Metric,
+10uF Unpolarized capacitor,C5,C_1210_3225Metric,
+22uF Unpolarized capacitor,C6,C_0603_1608Metric,
+C Unpolarized capacitor,"C7,C8,C9,C10,C11,C12,C13,C14",C_1111_2828_metric,
+SMAJ85CA-TR Bidirectional transient-voltage-suppression diode,D1,D_SMA,
+"PMEG050V030EPD 50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289","DH1,DH2",Nexperia_CFP15_SOT-1289,
+"PMEG050V030EPD 50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289","DL1,DL2",Nexperia_CFP15_SOT-1289,
+MountingHole Mounting Hole without connection,"H1,H2,H3,H4",MountingHole_3.2mm_M3,
+TYPE-C_16PIN_2MD__073_ ,J3,SHOUHAN_TYPE-C_16PIN_2MD__073_,
+P7815-500R ,U2,CONV_P7815-500R,
