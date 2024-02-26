@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\antti\OneDrive\Asiakirjat\KiCad\WTP_receiver\WTP_receiver.kicad_sch</source>
-    <date>2/25/2024 10:22:15 PM</date>
+    <date>2/26/2024 9:03:28 PM</date>
     <tool>Eeschema 7.0.5</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -27,7 +27,11 @@
     <comp ref="C1">
       <value>C</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -38,7 +42,11 @@
     <comp ref="C2">
       <value>C</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -49,7 +57,12 @@
     <comp ref="C3">
       <value>C</value>
       <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB BOM" value="0"/>
+      <property name="Field5" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -60,7 +73,11 @@
     <comp ref="C4">
       <value>C</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -70,8 +87,13 @@
     </comp>
     <comp ref="C5">
       <value>10uF</value>
-      <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
+      <footprint>Capacitor_SMD:C_2220_5650Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/164377-FS55X106K101EHG/C153035</datasheet>
+      <fields>
+        <field name="LCSC Part">C153035</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value="C153035"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -81,8 +103,13 @@
     </comp>
     <comp ref="C6">
       <value>22uF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Fojan-FCC0805X226M100FT/C5137600</datasheet>
+      <fields>
+        <field name="LCSC Part">C5137600</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value="C5137600"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -93,7 +120,11 @@
     <comp ref="C7">
       <value>C</value>
       <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -104,7 +135,11 @@
     <comp ref="C8">
       <value>C</value>
       <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -115,7 +150,11 @@
     <comp ref="C9">
       <value>C</value>
       <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -126,7 +165,11 @@
     <comp ref="C10">
       <value>C</value>
       <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -137,7 +180,11 @@
     <comp ref="C11">
       <value>C</value>
       <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -148,7 +195,11 @@
     <comp ref="C12">
       <value>C</value>
       <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -159,7 +210,11 @@
     <comp ref="C13">
       <value>C</value>
       <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -170,7 +225,11 @@
     <comp ref="C14">
       <value>C</value>
       <footprint>Capacitor_SMD:C_1111_2828_metric</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -182,7 +241,11 @@
       <value>SMAJ85CA-TR</value>
       <footprint>Diode_SMD:D_SMA</footprint>
       <datasheet>https://www.st.com/content/ccc/resource/technical/document/datasheet/ff/c0/80/cc/19/4c/45/af/CD00001333.pdf/files/CD00001333.pdf/_jcr_content/translations/en.CD00001333.pdf</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Bidirectional transient-voltage-suppression diode"/>
@@ -194,7 +257,11 @@
       <value>PMEG050V030EPD</value>
       <footprint>Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PMEG050V030EPD.pdf</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Diode" part="PMEG050V030EPD" description="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
@@ -206,7 +273,11 @@
       <value>PMEG050V030EPD</value>
       <footprint>Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PMEG050V030EPD.pdf</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Diode" part="PMEG050V030EPD" description="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
@@ -218,7 +289,11 @@
       <value>PMEG050V030EPD</value>
       <footprint>Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PMEG050V030EPD.pdf</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Diode" part="PMEG050V030EPD" description="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
@@ -230,7 +305,11 @@
       <value>PMEG050V030EPD</value>
       <footprint>Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/PMEG050V030EPD.pdf</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Diode" part="PMEG050V030EPD" description="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289"/>
@@ -241,7 +320,11 @@
     <comp ref="H1">
       <value>MountingHole</value>
       <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Mounting Hole without connection"/>
@@ -252,7 +335,11 @@
     <comp ref="H2">
       <value>MountingHole</value>
       <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Mounting Hole without connection"/>
@@ -263,7 +350,11 @@
     <comp ref="H3">
       <value>MountingHole</value>
       <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Mounting Hole without connection"/>
@@ -274,7 +365,11 @@
     <comp ref="H4">
       <value>MountingHole</value>
       <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <property name="ki_description" value="Mounting Hole without connection"/>
@@ -292,6 +387,7 @@
         <field name="Description">
 DC-5V 5A Type C USB
 </field>
+        <field name="LCSC Part">C668624</field>
         <field name="MANUFACTURER">Shouhan</field>
         <field name="MAXIMUM_PACKAGE_HEIGHT">3.16mm</field>
         <field name="MF">Shouhan</field>
@@ -317,6 +413,7 @@ DC-5V 5A Type C USB
       <property name="MANUFACTURER" value="Shouhan"/>
       <property name="Availability" value="Not in stock"/>
       <property name="SNAPEDA_PN" value="TYPE-C 16PIN 2MD (073)"/>
+      <property name="LCSC Part" value="C668624"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -330,6 +427,7 @@ DC-5V 5A Type C USB
         <field name="CUI_purchase_URL">https://www.cui.com/product/dc-dc-converters/non-isolated/p78-500r-series?utm_source=snapeda.com&amp;utm_medium=referral&amp;utm_campaign=snapedaBOM</field>
         <field name="Check_prices">https://www.snapeda.com/parts/P7815-500R/CUI/view-part/?ref=eda</field>
         <field name="Description">24 V option 0.3 A, all others 0.5 A Output Current, 9 ~ 90 Vdc Input, 3 Pin SIP, Non-Isolated, Dc-Dc Converter</field>
+        <field name="JLCPCB BOM">0</field>
         <field name="MANUFACTURER">CUI Inc</field>
         <field name="MAXIMUM_PACKAGE_HEIGHT">9mm</field>
         <field name="MF">CUI Inc.</field>
@@ -358,6 +456,7 @@ DC-5V 5A Type C USB
       <property name="MANUFACTURER" value="CUI Inc"/>
       <property name="Availability" value="In Stock"/>
       <property name="SNAPEDA_PN" value="P7803-500 R"/>
+      <property name="JLCPCB BOM" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="WTP_receiver.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
